@@ -1,0 +1,15 @@
+venv/
+.venv/
+env/
+site-packages/
+lib/python*/
+__pycache__/
+*.py[cod]
+*.whl
+*.tar.gz
+*.jar
+*.egg-info/
+.pyterrier/
+.cache/
+dist/
+build/

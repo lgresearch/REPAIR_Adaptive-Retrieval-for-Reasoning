@@ -1,0 +1,24 @@
+-c constraints.txt
+
+accelerate==1.7.0
+datasets==5.0.1
+deepspeed==0.15.4
+faiss-cpu==1.11.0
+ftfy==6.3.1
+numpy==2.2.6
+pandas==2.3.3
+peft==0.15.2
+pylate==1.5.0
+pyterrier[all]==1.1.2
+pyterrier-adaptive==0.2.1
+pyterrier-alpha==0.16.5
+pytrec_eval==0.5
+sentencepiece==0.2.0
+sentence-transformers==5.3.0
+snowflake-ml-python==2.4.0
+snowflake-snowpark-python==1.55.1
+torch==2.6.0
+tqdm==4.67.1
+transformers==4.55.0
+trl==0.18.2
+vllm==0.8.5
